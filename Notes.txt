@@ -1,0 +1,5 @@
+Lets make some notes 
+
+1. Install and add extension in go and vscode. 
+2. create an empty file first.go 
+2. in the bottom choose go to install all the tools associated. 
